@@ -2,7 +2,7 @@ import React from 'react'
 import Container from '../Container'
 import Flex from '../Flex'
 import Images from '../Images'
-import Adone from "/src/assets//ad_1.png";
+import Adone from "/src/assets/ad_1.png";
 import Adtwo from '/src/assets/ad_2.png'
 import Adthree from '/src/assets/ad_3.png'
 import { Link } from 'react-router-dom'

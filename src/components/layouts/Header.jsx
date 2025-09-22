@@ -84,7 +84,7 @@ const Header = () => {
                   )
                 })
                 }
-                <li className="subtotal-section bg-[#262626] p-5 justify-between text-2xl text-center text-white">
+                <li className="subtotal-section bg-[#262626] p-5 justify-between text-2xl text-center text-white rounded-2xl">
                   <span className='p-9'>Subtotal:</span>
                   <span className='p-9'>${subtotal.toFixed(2)}</span>
                 </li>
